@@ -17,7 +17,7 @@ const projects = [
     description:
       "PassOP is a secure password management web application focused on real-world performance. It supports encrypted credential storage, fast search, local caching to reduce unnecessary API calls, and an optimized UI for better perceived performance in production environments.",
     image: image2,
-    link: "https://passop-frontendd.vercel.app/",
+    link: "https://passop-frontend-two.vercel.app/",
   },
   {
     title: "Vidit biswas Portfolio",

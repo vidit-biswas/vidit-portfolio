@@ -90,7 +90,7 @@ const NextPage = () => {
               onMouseEnter={() => setHoveredElement("cv")}
               onMouseLeave={() => setHoveredElement(null)}
             >
-              <a href="/vidit_resume_21(2)" download>
+              <a href="/viditresume.pdf" download>
                 Download CV
               </a>
             </motion.button>
