@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const contactInfo = [
   {
     name: "GitHub",
-    url: "https://github.com/vishalsinghksyp",
+    url: "https://https://github.com/vidit-biswas",
     svg: (
       <svg
         className="w-10 h-10 text-teal-400 group-hover:text-teal-500 transition-colors duration-300"
@@ -19,7 +19,7 @@ const contactInfo = [
   },
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/vishalsinghksyp/",
+    url: "https://www.linkedin.com/in/vidit-biswas-797344263/",
     svg: (
       <svg
         className="w-10 h-10 text-teal-400 group-hover:text-teal-500 transition-colors duration-300"
@@ -33,7 +33,7 @@ const contactInfo = [
   },
   {
     name: "Email",
-    url: "mailto:vishal0811singh@gmail.com",
+    url: "mailto:viditbiswas18@gmail.com",
     svg: (
       <svg
         className="w-10 h-10 text-teal-400 group-hover:text-teal-500 transition-colors duration-300"
@@ -52,7 +52,7 @@ const contactInfo = [
   },
   {
     name: "Instagram",
-    url: "https://www.instagram.com/vishalsinghksyp/",
+    url: "https://www.instagram.com/vidit_biswas_18/",
     svg: (
       <svg
         className="w-10 h-10 text-teal-400 group-hover:text-teal-500 transition-colors duration-300"
@@ -105,7 +105,7 @@ const Contact = () => {
             href="mailto:vishal0811singh@gmail.com"
             className="text-teal-400 hover:text-teal-500"
           >
-            vishal0811singh@gmail.com
+            viditbiswas18@gmail.com
           </a>
         </p>
       </div>

@@ -33,10 +33,10 @@ const Navbar = () => {
               {"< "}
             </span>
             <span className="text-pink-400 font-bold group-hover:text-white">
-              विशाल{" "}
+              Vidit{" "}
             </span>
             <span className="text-white font-bold group-hover:text-teal-400">
-              सिंह
+              Biswas
             </span>
             <span className="text-teal-400 font-mono group-hover:text-pink-400">
               {" />"}

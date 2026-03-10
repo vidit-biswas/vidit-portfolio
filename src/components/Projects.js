@@ -20,7 +20,7 @@ const projects = [
     link: "https://passop-frontendd.vercel.app/",
   },
   {
-    title: "Vishal Singh Portfolio",
+    title: "Vidit biswas Portfolio",
     description:
       "This very portfolio showcases my skills, projects, and web development abilities using React, Tailwind CSS, and Framer Motion.",
     image: image3,

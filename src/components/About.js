@@ -51,7 +51,7 @@ const About = () => {
         >
           <img
             src={photo}
-            alt="Vishal Singh"
+            alt="Vidit Biswas"
             className="object-cover w-full h-full transition-transform duration-700 transform hover:scale-110"
           />
         </motion.div>
@@ -67,7 +67,7 @@ const About = () => {
             About Me
           </h2>
           <p className="text-base md:text-lg leading-relaxed text-gray-300 mb-6">
-            I'm <span className="text-white font-semibold">Vishal Singh</span>,
+            I'm <span className="text-white font-semibold">Vidit Biswas</span>,
             a passionate web developer specializing in creating elegant
             solutions with modern technologies. I love turning ideas into
             reality, ensuring that every project is built with precision and

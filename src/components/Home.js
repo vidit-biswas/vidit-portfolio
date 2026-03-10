@@ -4,12 +4,12 @@ import { motion } from 'framer-motion';
 
 const HomePage = () => {
   const navigate = useNavigate();
-  const [showLoading, setShowLoading] = useState(true);
+  
   const [showText, setShowText] = useState(false);
   const [transitioning, setTransitioning] = useState(false);
 
   useEffect(() => {
-    setShowLoading(true);
+   
 
     const textTimer = setTimeout(() => {
       setShowText(true);

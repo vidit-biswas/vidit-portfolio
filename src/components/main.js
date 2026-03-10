@@ -55,7 +55,7 @@ const NextPage = () => {
                 hoveredElement === "title" ? "text-teal-400" : "text-white"
               }`}
             >
-              Vishal Singh
+              Vidit Biswas
             </span>
           </motion.h1>
           <motion.p
@@ -90,7 +90,7 @@ const NextPage = () => {
               onMouseEnter={() => setHoveredElement("cv")}
               onMouseLeave={() => setHoveredElement(null)}
             >
-              <a href="/vishalsinghresume-2.pdf" download>
+              <a href="/vidit_resume_21(2)" download>
                 Download CV
               </a>
             </motion.button>
