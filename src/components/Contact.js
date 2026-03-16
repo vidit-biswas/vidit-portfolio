@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const contactInfo = [
   {
     name: "GitHub",
-    url: "https://https://github.com/vidit-biswas",
+    url: "https://github.com/vidit-biswas",
     svg: (
       <svg
         className="w-10 h-10 text-teal-400 group-hover:text-teal-500 transition-colors duration-300"
@@ -52,7 +52,7 @@ const contactInfo = [
   },
   {
     name: "Instagram",
-    url: "https://www.instagram.com/vidit_biswas_18/",
+    url: "https://www.instagram.com/vidit_biswas__18/",
     svg: (
       <svg
         className="w-10 h-10 text-teal-400 group-hover:text-teal-500 transition-colors duration-300"
@@ -102,7 +102,7 @@ const Contact = () => {
         <p className="text-sm md:text-base mt-6">
           Email:{" "}
           <a
-            href="mailto:vishal0811singh@gmail.com"
+            href="mailto:viditbiswas18@gmail.com"
             className="text-teal-400 hover:text-teal-500"
           >
             viditbiswas18@gmail.com
