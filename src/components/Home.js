@@ -34,17 +34,17 @@ const HomePage = () => {
     exit: { scale: 1.3, opacity: 0 },
   };
 
-  const circleVariants = {
+ /* const circleVariants = {
     hidden: { clipPath: 'circle(0% at 50% 50%)', opacity: 0 },
     visible: { clipPath: 'circle(200% at 50% 50%)', opacity: 1 },
     exit: { clipPath: 'circle(0% at 50% 50%)', opacity: 0 },
   };
-
+*/
   const circleTransition = {
     duration: 3,
     ease: [0.42, 0, 0.58, 1],
   };
-
+/*
   const spinnerVariants = {
     initial: { opacity: 1 },
     animate: {
@@ -60,7 +60,7 @@ const HomePage = () => {
       ease: 'easeInOut',
     },
   };
-
+*/
   const textVariants = {
     hidden: { opacity: 0, scale: 0.8 },
     visible: { opacity: 1, scale: 1 },
