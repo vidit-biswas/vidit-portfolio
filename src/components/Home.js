@@ -39,11 +39,11 @@ const HomePage = () => {
     visible: { clipPath: 'circle(200% at 50% 50%)', opacity: 1 },
     exit: { clipPath: 'circle(0% at 50% 50%)', opacity: 0 },
   };
-*/
+
   const circleTransition = {
     duration: 3,
     ease: [0.42, 0, 0.58, 1],
-  };
+  };*/
 /*
   const spinnerVariants = {
     initial: { opacity: 1 },
