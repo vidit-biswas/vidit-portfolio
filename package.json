@@ -4,6 +4,11 @@
   "private": true,
   "description": "Personal portfolio of Vidit Biswas built with React and Tailwind CSS",
   "author": "Vidit Biswas",
+
+  "engines": {
+    "node": "24.x"
+  },
+
   "dependencies": {
     "@heroicons/react": "^2.1.5",
     "@material-tailwind/html": "^2.2.2",
@@ -22,21 +27,21 @@
     "three": "^0.167.1",
     "web-vitals": "^2.1.4"
   },
-  "engines": {
-  "node": "24.x"
-},
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
   },
+
   "browserslist": {
     "production": [
       ">0.2%",
@@ -49,6 +54,7 @@
       "last 1 safari version"
     ]
   },
+
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "tailwindcss": "^3.4.10"
